@@ -1,0 +1,15 @@
+fastapi
+fastapi-utils
+motor
+orjson==3.5.0
+python-multipart==0.0.5
+# dev tools
+asgi-lifespan==1.0.0
+pytest-asyncio>=0.14.0
+pytest_httpx==0.10.0
+uvicorn
+pydantic[dotenv]
+python-binance
+celery
+fastapi_contrib[all]
+loguru
